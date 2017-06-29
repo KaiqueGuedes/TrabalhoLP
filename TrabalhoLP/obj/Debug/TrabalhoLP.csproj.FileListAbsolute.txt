@@ -1,0 +1,63 @@
+C:\Users\spfc_\Desktop\TrabalhoLP\TrabalhoLP\bin\Debug\TrabalhoLP.exe.config
+C:\Users\spfc_\Desktop\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.exe
+C:\Users\spfc_\Desktop\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.pdb
+C:\Users\spfc_\Desktop\TrabalhoLP\TrabalhoLP\bin\Debug\TrabalhoLP.exe
+C:\Users\spfc_\Desktop\TrabalhoLP\TrabalhoLP\bin\Debug\TrabalhoLP.pdb
+C:\Users\spfc_\Desktop\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.csprojResolveAssemblyReference.cache
+C:\Users\spfc_\Desktop\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.frmCliente.resources
+C:\Users\spfc_\Desktop\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.Properties.Resources.resources
+C:\Users\spfc_\Desktop\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.csproj.GenerateResource.Cache
+C:\Users\spfc_\Desktop\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.FrmFornecedor.resources
+C:\Users\spfc_\Desktop\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.FrmMenu.resources
+C:\Users\spfc_\Desktop\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.FrmSobre.resources
+C:\Users\Princesinha\Documents\fema\almir\trabalho almir\TrabalhoLP\TrabalhoLP\bin\Debug\TrabalhoLP.exe.config
+C:\Users\Princesinha\Documents\fema\almir\trabalho almir\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.exe
+C:\Users\Princesinha\Documents\fema\almir\trabalho almir\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.pdb
+C:\Users\Princesinha\Documents\fema\almir\trabalho almir\TrabalhoLP\TrabalhoLP\bin\Debug\TrabalhoLP.exe
+C:\Users\Princesinha\Documents\fema\almir\trabalho almir\TrabalhoLP\TrabalhoLP\bin\Debug\TrabalhoLP.pdb
+C:\Users\Princesinha\Documents\fema\almir\trabalho almir\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.csprojResolveAssemblyReference.cache
+C:\Users\Princesinha\Documents\fema\almir\trabalho almir\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.frmCliente.resources
+C:\Users\Princesinha\Documents\fema\almir\trabalho almir\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.FrmFornecedor.resources
+C:\Users\Princesinha\Documents\fema\almir\trabalho almir\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.FrmMenu.resources
+C:\Users\Princesinha\Documents\fema\almir\trabalho almir\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.FrmSobre.resources
+C:\Users\Princesinha\Documents\fema\almir\trabalho almir\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.Properties.Resources.resources
+C:\Users\Princesinha\Documents\fema\almir\trabalho almir\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.csproj.GenerateResource.Cache
+C:\Users\Princesinha\Documents\fema\almir\trabalho almir\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.Camadas.formVendedor.resources
+C:\Users\Princesinha\Documents\fema\almir\trabalho almir\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.FormProduto.resources
+C:\Users\spfc_\Desktop\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.FormProduto.resources
+C:\Users\spfc_\Desktop\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.Camadas.formVendedor.resources
+C:\Users\Princesinha\Desktop\Novo\TrabalhoLP\TrabalhoLP\bin\Debug\TrabalhoLP.exe.config
+C:\Users\Princesinha\Desktop\Novo\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.exe
+C:\Users\Princesinha\Desktop\Novo\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.pdb
+C:\Users\Princesinha\Documents\fema\almir\trabalho almir\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.FormOs.resources
+C:\Users\Corei5\Desktop\TrabalhoLP\TrabalhoLP\bin\Debug\TrabalhoLP.exe.config
+C:\Users\Corei5\Desktop\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.exe
+C:\Users\Corei5\Desktop\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.pdb
+C:\Users\Corei5\Desktop\TrabalhoLP\TrabalhoLP\bin\Debug\TrabalhoLP.exe
+C:\Users\Corei5\Desktop\TrabalhoLP\TrabalhoLP\bin\Debug\TrabalhoLP.pdb
+C:\Users\Corei5\Desktop\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.csprojResolveAssemblyReference.cache
+C:\Users\Corei5\Desktop\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.FormOs.resources
+C:\Users\Corei5\Desktop\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.FormProduto.resources
+C:\Users\Corei5\Desktop\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.Camadas.formVendedor.resources
+C:\Users\Corei5\Desktop\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.frmCliente.resources
+C:\Users\Corei5\Desktop\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.FrmFornecedor.resources
+C:\Users\Corei5\Desktop\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.FrmMenu.resources
+C:\Users\Corei5\Desktop\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.FrmSobre.resources
+C:\Users\Corei5\Desktop\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.Properties.Resources.resources
+C:\Users\Corei5\Desktop\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.csproj.GenerateResource.Cache
+C:\Users\spfc_\Desktop\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.FormOs.resources
+C:\Users\Princesinha\Desktop\TrabalhoLP (1)\TrabalhoLP\TrabalhoLP\bin\Debug\TrabalhoLP.exe.config
+C:\Users\Princesinha\Desktop\TrabalhoLP (1)\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.exe
+C:\Users\Princesinha\Desktop\TrabalhoLP (1)\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.pdb
+C:\Users\Princesinha\Desktop\TrabalhoLP (1)\TrabalhoLP\TrabalhoLP\bin\Debug\TrabalhoLP.exe
+C:\Users\Princesinha\Desktop\TrabalhoLP (1)\TrabalhoLP\TrabalhoLP\bin\Debug\TrabalhoLP.pdb
+C:\Users\Princesinha\Desktop\TrabalhoLP (1)\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.csprojResolveAssemblyReference.cache
+C:\Users\Princesinha\Desktop\TrabalhoLP (1)\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.FormOs.resources
+C:\Users\Princesinha\Desktop\TrabalhoLP (1)\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.FormProduto.resources
+C:\Users\Princesinha\Desktop\TrabalhoLP (1)\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.Camadas.formVendedor.resources
+C:\Users\Princesinha\Desktop\TrabalhoLP (1)\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.frmCliente.resources
+C:\Users\Princesinha\Desktop\TrabalhoLP (1)\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.FrmFornecedor.resources
+C:\Users\Princesinha\Desktop\TrabalhoLP (1)\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.FrmMenu.resources
+C:\Users\Princesinha\Desktop\TrabalhoLP (1)\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.FrmSobre.resources
+C:\Users\Princesinha\Desktop\TrabalhoLP (1)\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.Properties.Resources.resources
+C:\Users\Princesinha\Desktop\TrabalhoLP (1)\TrabalhoLP\TrabalhoLP\obj\Debug\TrabalhoLP.csproj.GenerateResource.Cache
